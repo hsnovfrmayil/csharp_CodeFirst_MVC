@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/9_Lesson_Online_Store_MVC.props" />
+</Project>

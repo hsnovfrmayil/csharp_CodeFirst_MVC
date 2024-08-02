@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>_9_Lesson_Online_Store_MVC</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <None Remove="Controllers\" />
+    <None Remove="Views\Admin\" />
+    <None Remove="Views\Shared\AdminPartials\" />
+    <None Remove="ViewComponents\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\AdminDashboardNewOrder\" />
+    <None Remove="Views\Category\" />
+    <None Remove="Views\Tag\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Views\Admin\" />
+    <Folder Include="Views\Shared\AdminPartials\" />
+    <Folder Include="ViewComponents\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\AdminDashboardNewOrder\" />
+    <Folder Include="Views\Category\" />
+    <Folder Include="Views\Tag\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\9_Lesson_Online_Store_DataAccess\9_Lesson_Online_Store_DataAccess.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\9_Lesson_Online_Store_Domain\9_Lesson_Online_Store_Domain.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.0" />
+  </ItemGroup>
+</Project>

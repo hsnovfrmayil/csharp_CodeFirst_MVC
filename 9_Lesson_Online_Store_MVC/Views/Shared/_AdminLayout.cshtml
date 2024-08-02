@@ -1,0 +1,49 @@
+﻿<!doctype html>
+<!--
+* Bootstrap Simple Admin Template
+* Version: 2.1
+* Author: Alexis Luna
+* Website: https://github.com/alexis-luna/bootstrap-simple-admin-template
+-->
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Template | Bootstrap Simple Admin Template</title>
+    <link href="~/bootstrap-simple-admin-template/assets/vendor/fontawesome/css/fontawesome.min.css" rel="stylesheet">
+    <link href="~/bootstrap-simple-admin-template/assets/vendor/fontawesome/css/solid.min.css" rel="stylesheet">
+    <link href="~/bootstrap-simple-admin-template/assets/vendor/fontawesome/css/brands.min.css" rel="stylesheet">
+    <link href="~/bootstrap-simple-admin-template/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/bootstrap-simple-admin-template/assets/css/master.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="wrapper">
+        <!-- sidebar navigation component -->
+       <partial name="AdminPartials/SidebarComponentPartialView"> 
+        <!-- end of sidebar component -->
+
+           <div id="body" class="active">
+               <!-- navbar navigation component -->
+               <partial name="~/Views/Shared/AdminPartials/NavbarNavigationPartialView.cshtml">
+               <!-- end of navbar navigation -->
+                   <div>
+                       @RenderBody()
+                   </div>
+           </div>
+    </div>
+
+  
+    <!-- message alert -->
+    <partial name="~/Views/Shared/AdminPartials/MessageAlertPartialView.cshtml">
+   
+
+    <script src="~/bootstrap-simple-admin-template/assets/vendor/jquery/jquery.min.js"></script>
+    <script src="~/bootstrap-simple-admin-template/assets/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/bootstrap-simple-admin-template/assets/js/initiate-toast.js"></script>
+    <script src="~/bootstrap-simple-admin-template/assets/js/script.js"></script>
+</body>
+
+</html>

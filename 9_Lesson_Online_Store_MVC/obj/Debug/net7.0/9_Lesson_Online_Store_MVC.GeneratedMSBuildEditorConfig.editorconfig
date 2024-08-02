@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _9_Lesson_Online_Store_MVC
+build_property.RootNamespace = _9_Lesson_Online_Store_MVC
+build_property.ProjectDir = /Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_MVC/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_MVC/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_MVC/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_MVC/Views/Category/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvQWRkQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_MVC/Views/Category/AddTag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvQWRkVGFnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_MVC/Views/Category/GetAllCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvR2V0QWxsQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_MVC/Views/Shared/AdminPartials/MessageAlertPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0FkbWluUGFydGlhbHMvTWVzc2FnZUFsZXJ0UGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_MVC/Views/Shared/AdminPartials/NavbarNavigationPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0FkbWluUGFydGlhbHMvTmF2YmFyTmF2aWdhdGlvblBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_MVC/Views/Shared/AdminPartials/SidebarComponentPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0FkbWluUGFydGlhbHMvU2lkZWJhckNvbXBvbmVudFBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_MVC/Views/Shared/Components/AdminDashboardNewOrder/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQWRtaW5EYXNoYm9hcmROZXdPcmRlci9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_MVC/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_MVC/Views/Tag/AddTag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFnL0FkZFRhZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

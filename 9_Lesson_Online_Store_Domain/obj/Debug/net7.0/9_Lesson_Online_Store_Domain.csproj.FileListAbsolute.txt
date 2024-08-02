@@ -1,0 +1,11 @@
+/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_Domain/bin/Debug/net7.0/9_Lesson_Online_Store_Domain.deps.json
+/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_Domain/bin/Debug/net7.0/9_Lesson_Online_Store_Domain.dll
+/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_Domain/bin/Debug/net7.0/9_Lesson_Online_Store_Domain.pdb
+/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_Domain/obj/Debug/net7.0/9_Lesson_Online_Store_Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_Domain/obj/Debug/net7.0/9_Lesson_Online_Store_Domain.AssemblyInfoInputs.cache
+/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_Domain/obj/Debug/net7.0/9_Lesson_Online_Store_Domain.AssemblyInfo.cs
+/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_Domain/obj/Debug/net7.0/9_Lesson_Online_Store_Domain.csproj.CoreCompileInputs.cache
+/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_Domain/obj/Debug/net7.0/9_Lesson_Online_Store_Domain.dll
+/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_Domain/obj/Debug/net7.0/refint/9_Lesson_Online_Store_Domain.dll
+/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_Domain/obj/Debug/net7.0/9_Lesson_Online_Store_Domain.pdb
+/Users/fermayilhesenov/Projects/9_Lesson_Online_Store/9_Lesson_Online_Store_Domain/obj/Debug/net7.0/ref/9_Lesson_Online_Store_Domain.dll
